@@ -16,6 +16,6 @@ If you call tasks individually, you must run "processPrepare" *after* filerev an
 
 This is primarily designed for js and css and assumes you have already bundled and minified those files via some other mechanism. It could be used for images but you would probably be better off using something like [usemin](https://github.com/yeoman/grunt-usemin) which is a more complete solution.
 
-Optional: If you want to save out the values that filerev generates as a JSON object, uncomment the filerev_assets blocks and add to tasks.
+Optional: If you want to save out the values that filerev generates as a JSON string in a text file, uncomment the filerev_assets blocks and add to tasks.
 
 TODO: set up tokens to autmatically match up template values so you don't have to manually define them.
