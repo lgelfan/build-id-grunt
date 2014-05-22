@@ -18,4 +18,4 @@ This is primarily designed for js and css and assumes you have already bundled a
 
 Optional: If you want to save out the values that filerev generates as a JSON string in a text file, uncomment the filerev_assets blocks and add to tasks.
 
-TODO: set up tokens to autmatically match up template values so you don't have to manually define them.
+TODO: set up tokens to automatically match up template values so you don't have to manually define them.
